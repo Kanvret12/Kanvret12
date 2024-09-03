@@ -1,4 +1,4 @@
-### Hobbyist Mathematician 
+### Hobbyist Game
 - Some of my projects are open-sourced here.
 
 ![Readme Card](https://github-readme-stats.vercel.app/api?username=Kanvret12&count_private=false&show_icons=true&theme=tokyonight)
